@@ -1,3 +1,5 @@
+![ota drawio](https://github.com/SEA-ME/MCS_OTA-for-Head-Unit/assets/163559668/74f75887-6576-4ef7-83d3-480ac82b53ea)
+
 # Required Setting
 
 ## for broker server (in OTA Server)
