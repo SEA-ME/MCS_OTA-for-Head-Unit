@@ -1,4 +1,5 @@
 ![ota drawio](https://github.com/SEA-ME/MCS_OTA-for-Head-Unit/assets/163559668/74f75887-6576-4ef7-83d3-480ac82b53ea)
+<img src="https://github.com/SEA-ME/MCS_OTA-for-Head-Unit/assets/101382350/d373fdbe-86d4-4b91-b6d1-a73852891253">
 
 # OTA Required Setting
 
